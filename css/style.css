@@ -1,0 +1,36 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+body{
+  color: rgb(255, 170, 0);
+  background-image: url("/Users/resilientcoders/Documents/rc2022A/week07-material 2/simpleWeather/img/seasons.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width:50%;
+  font-family: 'Fruktur', cursive;
+
+  
+}
+
+
+button{
+  border-radius: 26%;
+  border: dashed;
+ background-color:rgb(255, 170, 0);
+ ;
+ color:rgb(234, 29, 193) ;
+}
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
